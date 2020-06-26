@@ -8,6 +8,7 @@ function App() {
     <div className='main-container'>
       <Header />
       <Body />
+      <div className='name-bar'>razer nari ultimate</div>
     </div>
   );
 }

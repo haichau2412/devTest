@@ -35,10 +35,10 @@
   border-color: #44d62c;
 }
 .profile-bar .obm {
-  background-image: url('../img_ui/icon_obm.svg');
+  background-image: url("../img_ui/icon_obm.svg");
 }
 .profile-bar .dots3 {
-  background-image: url('../img_ui/icon_more.svg');
+  background-image: url("../img_ui/icon_more.svg");
 }
 .profile-bar .batt {
   margin-left: 10px;
@@ -47,46 +47,46 @@
   background-size: 20px;
   background-repeat: no-repeat;
   background-position: center;
-  background-image: url('../img_ui/icon_battery_100.svg');
+  background-image: url("../img_ui/icon_battery_100.svg");
 }
 .batt.charging {
-  background-image: url('../img_ui/icon_battery_charging.svg');
+  background-image: url("../img_ui/icon_battery_charging.svg");
 }
 .batt.batt-100 {
-  background-image: url('../img_ui/icon_battery_100.svg');
+  background-image: url("../img_ui/icon_battery_100.svg");
 }
 .batt.batt-80 {
-  background-image: url('../img_ui/icon_battery_80.svg');
+  background-image: url("../img_ui/icon_battery_80.svg");
 }
 .batt.batt-90 {
-  background-image: url('../img_ui/icon_battery_90.svg');
+  background-image: url("../img_ui/icon_battery_90.svg");
 }
 .batt.batt-70 {
-  background-image: url('../img_ui/icon_battery_70.svg');
+  background-image: url("../img_ui/icon_battery_70.svg");
 }
 .batt.batt-60 {
-  background-image: url('../img_ui/icon_battery_60.svg');
+  background-image: url("../img_ui/icon_battery_60.svg");
 }
 .batt.batt-50 {
-  background-image: url('../img_ui/icon_battery_50.svg');
+  background-image: url("../img_ui/icon_battery_50.svg");
 }
 .batt.batt-40 {
-  background-image: url('../img_ui/icon_battery_40.svg');
+  background-image: url("../img_ui/icon_battery_40.svg");
 }
 .batt.batt-30 {
-  background-image: url('../img_ui/icon_battery_30.svg');
+  background-image: url("../img_ui/icon_battery_30.svg");
 }
 .batt.batt-20 {
-  background-image: url('../img_ui/icon_battery_20.svg');
+  background-image: url("../img_ui/icon_battery_20.svg");
 }
 .batt.batt-10 {
-  background-image: url('../img_ui/icon_battery_10.svg');
+  background-image: url("../img_ui/icon_battery_10.svg");
 }
 .batt.batt-0 {
-  background-image: url('../img_ui/icon_battery_0.svg');
+  background-image: url("../img_ui/icon_battery_0.svg");
 }
 .batt.batt-off {
-  background-image: url('../img_ui/icon_device_off.svg');
+  background-image: url("../img_ui/icon_device_off.svg");
 }
 .profile-bar .divider {
   width: 1px;
@@ -159,7 +159,7 @@
   position: absolute;
   z-index: 100;
 
-  font-family: 'Roboto', sans-serif;
+  font-family: "Roboto", sans-serif;
   position: absolute;
   /*display: none;*/
   /*width: calc(100% - 30px);*/
